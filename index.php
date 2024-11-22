@@ -1,5 +1,6 @@
 <?php
 // Conexión a la base de datos
+
 include 'Oculto/conexion.php';
 
 // Consulta para obtener todas las películas
